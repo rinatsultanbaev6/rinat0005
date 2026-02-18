@@ -6,9 +6,9 @@
 
 ### 👨‍💻 Veb Dasturlewshi (Student)
 
-- 🎓 **O'qish joyi:** Qaraqalpaqstan awil xojaligi ham agrotexnologiyalar instituti
-- 📚 **Hozirda o'rganyapman:** Web Development (HTML, CSS, JS)
-- 🎯 **Maqsadim:** Kuchli dasturchi bo'lish
+- 🎓 **Oqiw orni:** Qaraqalpaqstan awil xojaligi ham agrotexnologiyalar instituti
+- 📚 **hazir uyrenip atirman:** Web Development (HTML, CSS, JS)
+- 🎯 **Maxsetim:** Kuchli dasturchi bo'lish
 
 ---
 
@@ -20,5 +20,5 @@
 
 ---
 
-### 📫 Men bilan bog'lanish:
+### 📫 Menin' menen baylanisiw:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RINAT_USERNAMINGIZ)
